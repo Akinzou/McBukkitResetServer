@@ -1,0 +1,9 @@
+name: ResetServer
+main: d0001.reset.Reset
+version: 0.0.1
+description: Plugin to info and kick players for reset server
+
+commands:
+  reset:
+    usage: /reset
+    description: Reset server
